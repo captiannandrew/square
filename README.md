@@ -1,3 +1,4 @@
 # square
 squares
-Hello sample program in python to print squares of a list!
+
+Hello this sample program in python to print squares of a list!
